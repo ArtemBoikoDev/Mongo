@@ -12,3 +12,5 @@ Service operations:
 -Find customer(s) with cards that are expired.
 
 Integration tests implemented using embedded MongoDb.
+
+Jenkins job test
